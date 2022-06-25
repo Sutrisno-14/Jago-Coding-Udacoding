@@ -1,0 +1,12 @@
+Pada Template Adim Lte ini, saya sudah melakukan setting 
+supaya lebih mudah untuk digunakan.
+
+1. starter.html = file untuk tampilan website. lakukan ubah pada
+file starter.html -> index.php
+2. Untuk membuat sebuah tabel. buka folder pages didalam Admin Lte
+pages->tables->data.html(data.html sudah di setting 
+tinggal menggunakan).
+3. Untuk membuat sebuah form. Buka folder pages didalam Admin Lte.
+Pages->forms->general.html(file ini sudah di setting).
+
+=========================Selamat Menggunakan======================
